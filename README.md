@@ -1,5 +1,7 @@
-# Hi there, I'm Stanislav. ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
+# Мне зовут Станислав Таргонский
+### Я фронтенд-разработчик живу в Санкт-Петербурге
+
+-(https://cache3.youla.io/files/images/720_720_out/5c/c7/5cc79bfaf69576cc270e7293.jpg)
 
 
 
