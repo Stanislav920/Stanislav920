@@ -1,7 +1,8 @@
 # Мне зовут Станислав Таргонский
 ### Я фронтенд-разработчик живу в Санкт-Петербурге
 
-- 🏐 Сейчас ищу работу HTML-верстальщик
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
+- Сейчас ищу работу HTML-верстальщик
 - Со мной можно связаться  [Telegram](https://t.me/starys) или [Почта](stas.1.86@mail.ru)
 -  Хочу научиться создавать более сложные проекты
 -  Стремлюсь к работе в большом проекте
@@ -10,7 +11,7 @@
 
 
   # Мой стек:
-  <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="46" height="46"/> </a> 
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="46" height="46"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="46" height="46"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="46" height="46"/></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="46" height="46"/> </a>
