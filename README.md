@@ -1,8 +1,8 @@
 # Мне зовут Станислав Таргонский
 ### Я фронтенд-разработчик живу в Санкт-Петербурге
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
-- Сейчас ищу работу HTML-верстальщик
+
+- <img src=":fire:" width="30"> Сейчас ищу работу HTML-верстальщик
 - Со мной можно связаться  [Telegram](https://t.me/starys) или [Почта](stas.1.86@mail.ru)
 -  Хочу научиться создавать более сложные проекты
 -  Стремлюсь к работе в большом проекте
